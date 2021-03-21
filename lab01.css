@@ -1,0 +1,29 @@
+
+body{
+    background-color: #e6fcff;
+}
+
+#game{
+    width: 500px;
+    height: auto;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #b49fff;
+}
+
+#aa{
+    margin: 0px;
+    padding: 0px;
+}
+#pai{
+    color: #7df8ff;
+}
+#bb{
+    margin: 0px;
+    padding: 0px;
+    color: coral;
+}
